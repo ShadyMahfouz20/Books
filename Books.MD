@@ -1,37 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <style>
-      table
-      tr:nth-child(even) {
-        background-color: #000000;
-      }
-      body {
-        background-color: rgba(0, 236, 216, 0);
-        font-family: "Rubik", sans-serif;
-      }
-
-      #learning_material > h1 {
-        color: rgb(0, 0, 0);
-        text-align: center;
-      }
-       body {
-        background-color: rgba(0, 236, 216, 0);
-        font-family: "Rubik", sans-serif;
-      }
-
-      #Ahmed > h2 {
-        color: rgb(0, 0, 0);
-        text-align: center;
-      }
-
-      #Shady > h3 {
-        color: rgb(0, 0, 0);
-        text-align: left;
-        font-style: italic;
-      }
-      
-    </style>
+    
   </head>
   <body>
     <div id="learning_material">
