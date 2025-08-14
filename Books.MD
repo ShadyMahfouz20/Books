@@ -2,18 +2,18 @@
 
 ## Books I Have Read
 
-### Bug Stew
-### The Ugly Duckling
-### Red Reading Hood
-### The Three Bears
-### The Angry Octopus
-### The Proud Peacock
-### Lantern and Colors
-### Doom Tata Doom
-### The Day the Train Disappeared
-### Mother of the Shadow
-### The Cat Love Sing
-### Where Did the Last Dinosaurs Disappear?
-### The Black Point
-### The Last Leaf
-### The Sun and the Moon
+### 1. Bug Stew
+### 2. The Ugly Duckling
+### 3. Red Reading Hood
+### 4. The Three Bears
+### 5. The Angry Octopus
+### 6. The Proud Peacock
+### 7. Lantern and Colors
+### 8. Doom Tata Doom
+### 9. The Day the Train Disappeared
+### 10. Mother of the Shadow
+### 11. The Cat Love Sing
+### 12. Where Did the Last Dinosaurs Disappear?
+### 13. The Black Point
+### 14. The Last Leaf
+### 15. The Sun and the Moon
